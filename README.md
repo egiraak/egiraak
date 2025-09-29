@@ -5,7 +5,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 
 ## About Me:
 - 😄 Pronouns: "Egi"🌱
-- I’m currently learning ...
+- I’m currently learning to memorize query syntax
 - 👯 I’m looking to collaborate on any type of analysis inline with mybackground and skills
 - 💬 Ask me about anything!
 - 📫 How to reach me: khairunnisa.adhani@gmail.com
