@@ -43,7 +43,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 ### 🛠 Language and Tools:
 
 [<img align="left" alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10;" />](https://www.postgresql.org/)  
-[<img align="left" alt="Amazon Athena" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mT5wkSNDjnagGDVja8fZI4QtcbsyzY4Hgw&s" style="padding-right:10;" />](https://aws.amazon.com/athena/)
+[<img align="left" alt="Amazon Athena" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1TqubLAPMopZ2ubEFqdsC5Xhvd_LkF9ZpRQ&s" style="padding-right:10;" />](https://aws.amazon.com/athena/)
 
 
 
