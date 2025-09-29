@@ -42,7 +42,10 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 ---
 🛠 Language and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />](https://www.postgresql.org/)  
+[<img align="left" alt="Amazon Athena" width="30" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" style="padding-right:10px;" />](https://aws.amazon.com/athena/)  
+[<img align="left" alt="Database" width="30" src="https://www.svgrepo.com/show/331488/sql-database-generic.svg" style="padding-right:10px;" />](#)
+
 
 
 📂 Featured Projects
