@@ -10,7 +10,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - 💬 Ask me about anything!
 - 📫 How to reach me: khairunnisa.adhani@gmail.com
 
-<br />
+---
 
 ## Education:
 #### 1. [Universitas Indonesia](https://www.ui.ac.id/) | Bachelor of Mathematics | Depok `2015-2020`
@@ -20,7 +20,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - Staff of MPK
 - Member of Japanese Club
 
-<br />
+---
 
 ## Work Experiences:
 
@@ -41,7 +41,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - Responsible for end-to-end process in completing product's information and the UI related to one of the app's feature
 - Ad hoc request from departments by collect and explore data using programming language
 
-<br />
+---
 
 🛠 Language and Tools:
 [<img align="left" alt="MySQL" width="30px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" style="padding-right:10px;" />][webdev]
