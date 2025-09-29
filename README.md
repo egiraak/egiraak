@@ -42,8 +42,12 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 ---
 ### 🛠️ Languages and Tools:
 
-[<img alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
-[<img alt="Python" width="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />](https://www.python.org/)
+[<img alt="PostgreSQL" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />](https://www.postgresql.org/)
+[<img alt="Python" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](https://www.python.org/)
+[<img alt="Amazon Athena" width="40" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" />](https://aws.amazon.com/athena/)
+[<img alt="Power BI" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />](https://powerbi.microsoft.com/)
+[<img alt="Git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
+
 
 
 
