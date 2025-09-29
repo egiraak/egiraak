@@ -40,10 +40,11 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - Ad hoc request from departments by collect and explore data using programming language
 
 ---
-### 🛠 Language and Tools:
+### 🛠️ Languages and Tools:
 
-[<img align="left" alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10;" />](https://www.postgresql.org/)  
-[<img align="left" alt="Python" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s" style="padding-right:10;" />](https://python.org/)
+[<img alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
+[<img alt="Python" width="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />](https://www.python.org/)
+
 
 
 
