@@ -1,6 +1,4 @@
-## Hi there! I’m Egira 👋
-
-✨ Welcome to my GitHub! I build things to explore and broaden one's horizon ⸜( ˙˘˙)⸝
+# Hi there! I’m Egira 👋
 
 ## About Me:
 - 😄 Pronouns: "Egi"
