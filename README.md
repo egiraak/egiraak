@@ -52,15 +52,6 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 [<img alt="Tableau" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />](https://www.tableau.com/) &nbsp;&nbsp;
 [<img alt="Excel" width="40" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />](https://excel.cloud.microsoft/) &nbsp;&nbsp;
 
-
-
-
-
-
-
-
-
-
 <br />
 
 📂 Featured Projects
