@@ -46,7 +46,6 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 [<img alt="Python" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](https://www.python.org/) &nbsp;&nbsp;
 [<img alt="Amazon Athena" width="40" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" />](https://aws.amazon.com/athena/) &nbsp;&nbsp;
 [<img alt="Power BI" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />](https://powerbi.microsoft.com/) &nbsp;&nbsp;
-[<img alt="Git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
 
 
 
