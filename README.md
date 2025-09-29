@@ -50,6 +50,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 [<img alt="Personalize" width="40" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-Personalize_64@5x.png" />](https://aws.amazon.com/personalize/) &nbsp;&nbsp;
 [<img alt="Power BI" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />](https://powerbi.microsoft.com/) &nbsp;&nbsp;
 [<img alt="Tableau" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />](https://www.tableau.com/) &nbsp;&nbsp;
+[<img alt="Excel" width="40" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />](https://excel.cloud.microsoft/) &nbsp;&nbsp;
 
 
 
