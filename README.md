@@ -1,7 +1,6 @@
 ## Hi there! I’m Egira 👋
 
-✨ Welcome to my GitHub!
-I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, and the next-step after finding insights
+✨ Welcome to my GitHub! I build things to explore and broaden one's horizon ⸜( ˙˘˙)⸝
 
 ## About Me:
 - 😄 Pronouns: "Egi"
