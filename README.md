@@ -40,11 +40,11 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - Ad hoc request from departments by collect and explore data using programming language
 
 ---
-🛠 Language and Tools:
+### 🛠 Language and Tools:
 
-[<img align="left" alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />](https://www.postgresql.org/)  
-[<img align="left" alt="Amazon Athena" width="30" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" style="padding-right:10px;" />](https://aws.amazon.com/athena/)  
-[<img align="left" alt="Database" width="30" src="https://www.svgrepo.com/show/331488/sql-database-generic.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="PostgreSQL" width="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10;" />](https://www.postgresql.org/)  
+[<img align="left" alt="Amazon Athena" width="30" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" style="padding-right:10;" />](https://aws.amazon.com/athena/)  
+[<img align="left" alt="Database" width="30" src="https://www.svgrepo.com/show/331488/sql-database-generic.svg" style="padding-right:10;" />](#)
 
 
 
