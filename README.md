@@ -10,31 +10,39 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - 💬 Ask me about anything!
 - 📫 How to reach me: khairunnisa.adhani@gmail.com
 
+<br />
 ## Education:
-
 #### 1. [Universitas Indonesia](https://www.ui.ac.id/) | Bachelor of Mathematics | Depok `2015-2020`
 - Major in Mathematics with minor in Computation and Statistics
 - Staff of HMDM Mathematics
-#### 1. [SMAN 2 Bogor]([https://www.ui.ac.id/](https://sman2kotabogor.sch.id/)) | IPA | Bogor `2012-2015`
+#### 2. [SMAN 2 Bogor](https://sman2kotabogor.sch.id/) | IPA | Bogor `2012-2015`
 - Staff of MPK
 - Member of Japanese Club
 
-## Education:
+<br />
+## Work Experiences:
 
+#### 1. [Happy Kamper](https://happykamper.io/id) | Product Marketing Analyst | WFA `Jan 2025 - Jun 2025`
+- Major in Mathematics with minor in Computation and Statistics
+- Staff of HMDM Mathematics
+#### 2. [I CAN READ Indonesia](https://icanread.co.id/) | Data Analyst | Jakarta Barat `Apr 2020 - Jan 2025`
+- Collect data and build dashboard to provide stakeholders with relevant information about core business KPIs (weekly, monthly, yearly), saving 10 hours per week of manual reporting
+- Designed and executed projects which result analyzed and review to BOD and team
+- Designed new leads management system to improve organization of leads coming in and out of the sales pipeline
+- Enhance data management by creating automation across the data collection process, reduced manual workload by 25% monthly
+- Supervise and assist users with software system used for +12 centers and directly help if problems arise
+- Manage business process data of +2000 students integrated from the system
+- Designed and implemented a comprehensive training curriculum for POS systems, reducing new hire on-boarding time by 50% and improving overall team efficiency
+#### 3. [MicroAid NilaiKu](https://blog.microaid.io/) | Data Analyst | WFH `Nov 2020 - Mar 2022`
+- Analyzed data from 11300 active users using customer segmentation to identify Persona and use output to guide marketing and product strategies
+- Conduct project for detect suspicious users using image recognition in alerts, investigate, report to internal
+- Responsible for end-to-end process in completing product's information and the UI related to one of the app's feature
+- Ad hoc request from departments by collect and explore data using programming language
 
-📊 Latar belakang: [pendidikan atau pengalaman singkat]
+<br />
+🛠 Language and Tools:
+[<img align="left" alt="MySQL" width="30px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" style="padding-right:10px;" />][webdev]
 
-🔍 Fokus saat ini: [misalnya membangun portofolio SQL, eksplorasi machine learning, dsb]
-
-🎯 Tujuan: [misalnya berkarir di bidang data science / riset psikologi kognitif / business analytics]
-
-🛠 Skills
-
-Languages & Tools: SQL, Python, Power BI, Excel
-
-Data: Data wrangling, visualization, cohort analysis, recommendation system
-
-Others: Product analytics, marketing insights, reporting
 
 📂 Featured Projects
 
@@ -51,18 +59,3 @@ LinkedIn: [link kamu]
 GitHub: [github.com/username]
 
 Email: [email kamu]
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
