@@ -46,7 +46,7 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 [<img align="left" alt="Amazon Athena" width="30" src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" style="padding-right:10;" />](https://aws.amazon.com/athena/)  
 [<img align="left" alt="Database" width="30" src="https://www.svgrepo.com/show/331488/sql-database-generic.svg" style="padding-right:10;" />](#)
 
-
+<br />
 
 📂 Featured Projects
 
