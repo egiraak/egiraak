@@ -8,7 +8,6 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 - 🌱 I’m currently learning to memorize query syntax
 - 👯 I’m looking to collaborate on any type of analysis inline with mybackground and skills
 - 💬 Ask me about anything!
-- 📫 How to reach me: khairunnisa.adhani@gmail.com
 
 ---
 ## Education:
@@ -51,21 +50,3 @@ I'm  Data Enthusiast with interests in data analysis, data wrangling, data viz, 
 [<img alt="Power BI" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />](https://powerbi.microsoft.com/) &nbsp;&nbsp;
 [<img alt="Tableau" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />](https://www.tableau.com/) &nbsp;&nbsp;
 [<img alt="Excel" width="40" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />](https://excel.cloud.microsoft/) &nbsp;&nbsp;
-
-<br />
-
-📂 Featured Projects
-
-📘 [SQL Portfolio](link repo sql-portfolio)
-
-📊 [Power BI Dashboards](link repo atau screenshot kalau ada)
-
-🤖 [Recommendation System with Amazon Personalize](link repo kalau ada)
-
-📫 Connect with Me
-
-LinkedIn: [link kamu]
-
-GitHub: [github.com/username]
-
-Email: [email kamu]
